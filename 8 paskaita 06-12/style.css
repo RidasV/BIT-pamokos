@@ -1,0 +1,24 @@
+html {
+    font-size: 36px;
+}
+
+body {
+    background-color: aquamarine;
+    max-width: 1920px;
+}
+
+.container {
+    background-color: red;
+}
+
+h1 {
+    font-weight: 400;
+    line-height: 1.5;
+    font-size 4.555rem;
+}
+
+@media screen and (max-width: 1000px) {
+    html {
+        font-size: 14px;
+    }
+}

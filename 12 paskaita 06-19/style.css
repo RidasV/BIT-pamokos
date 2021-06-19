@@ -1,0 +1,203 @@
+html {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+}
+
+.main {
+    margin: 0 auto;
+    max-width: 1920px;
+
+}
+
+.header {
+   background-color: black;
+   max-width: 1920px;
+   width: 100%;
+
+}
+
+.header, .body, .footer1, .footer2 {
+    padding-left: 5.8333rem;
+}
+
+.menu {
+    /*max-width: 106.6667rem;
+    max-height: 5.2222rem;*/
+    text-align: left;
+    color: #FFFFFF;
+    padding-left: 98.5556rem;
+    padding-top: 2.1667rem;
+    padding-right: 6.0556rem;
+    padding-bottom: 1.9444rem;
+    font-size: 0.7778rem;
+}
+
+.contact-us {
+    text-align: left;
+    color: #FFFFFF;
+    /*-top: 10.2222rem;*/
+    padding-bottom: 8.8333rem;
+    font-size: 5.6667rem;
+}
+
+.contact-form {
+    width: 62.66%;
+}
+
+.body {
+    background-color: white;
+    max-height: 115.5rem;
+    max-width: 106.6667rem;
+}
+.you-can-write-us-here {
+    text-align: left;
+    color: black;
+    padding-top: 7.9444rem;
+    padding-right: 77rem;
+    padding-bottom: 2.6111rem;
+    font-size: 4rem;
+}
+
+label {
+    font-size: 25px;
+    text-align: left;
+    color: #060606;
+    width: 16%;
+    display:block;
+    float:left;
+}
+
+.input {
+    padding-bottom: 76px;
+    width: 100%;
+}
+
+.clearfix {
+    overflow:auto;
+}
+
+input {
+    float:left;
+    background: #F8F8F8 0% 0% no-repeat padding-box;
+    opacity: 1;
+    height: 3.4444rem;
+    width: 80.38%;
+    border: none;
+    height: 3.4444rem;
+    padding-left: 1.6667rem;
+    font-size: 1rem;
+    color: #969696;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+textarea {
+    float:left;
+    background: #F8F8F8 0% 0% no-repeat padding-box;
+    opacity: 1;
+    width: 80.38%;
+    border: none;
+    padding-left: 1.6667rem;
+    height: 13.2222rem;
+    font-size: 1rem;
+    color: #969696;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+.button {
+    padding-left: 13.0833rem;
+    padding-bottom: 10.3333rem;
+}
+.send-btn {
+    background: var(--unnamed-color-060606) 0% 0% no-repeat padding-box;
+    background: #060606 0% 0% no-repeat padding-box;
+    opacity: 1;
+    text-align: center;
+    font-size: 1.3889rem;
+    color: #FFFFFF;
+    height:3.8889rem;
+    width:12.8889rem;
+    border: none;
+}
+
+.footer1 {
+    background-color: #69779B;
+}
+
+.footer2 {
+    background-color: #060606;
+}
+
+.footer1, .footer2 {
+    height: 19.1111rem;
+    width: 100%;
+    max-width: 1920px;
+}
+
+.city-title {
+    padding-top: 5.8889rem;
+    padding-bottom: 1.1111rem;
+    font-size: 2.8333rem;
+    color: #ffffff;
+}
+
+.city-subtitle {
+    font-size: 1rem;
+    font-weight: 400; /* NEVEIKIA. Fontas vis tiek išlieka paboldintas.*/
+    color: #ffffff;
+}
+.city-1, .city-2, .city-3 {
+    float: left;
+    width: 23%;
+}
+
+.footer2 {
+    background-color: #060606;
+}
+
+.footer2-title {
+    float: left;
+    color: #FFFFFF;
+    font-size: 2.8333rem;
+    padding-top: 1.8889rem;
+    padding-bottom: 8.5rem;
+    width: 23%;
+}
+
+.subscribe-block {
+    float:left;
+    padding-top: 3.5rem;
+    width: 46%;
+}
+
+.sub-text {
+    color: #FFFFFF;
+    font-size: 2rem;
+}
+.sub-email-input input {
+    background: #060606 0% 0% no-repeat padding-box;
+    opacity: 1;
+    float:left;
+    color: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+.contact-us-footer {
+    float:left;
+    width: 20%;
+    color: #FFFFFF;
+}
+
+.contact-us-footer-title {
+    font-size: 2rem;
+    color: #FFFFFF;
+    padding-top: 3.5rem;
+    padding-bottom: 1.1111rem;
+}
+
+.contact-us-footer-subtitle {
+    font-size: 0.8889rem;
+    color: #FFFFFF
+}
+
+
